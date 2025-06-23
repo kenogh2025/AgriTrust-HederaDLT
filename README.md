@@ -25,10 +25,11 @@ Fake agricultural inputs and corrupt subsidy programs are destroying farmer trus
 ## 🚀 Roadmap
 
 | Phase | Description |
+## Roadmap
 
-| Pilot | Ethiopia, focus on seed verification |
-| Scale | Add fertilizer + government subsidy tracking |
-| Expand | Cross-sector: vaccines, energy, etc. |
+1. **Pilot:** Focus on seed verification in Ethiopia.
+2. **Scale:** Add fertilizer and government subsidy tracking.
+3. **Future Expansion:** Extend to healthcare (vaccine traceability), energy distribution, and beyond.
 
 ## 📂 File Structure
 
