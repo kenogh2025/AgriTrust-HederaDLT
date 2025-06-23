@@ -26,7 +26,6 @@ Fake agricultural inputs and corrupt subsidy programs are destroying farmer trus
 
 | Phase | Description |
 
-|-------|-------------|
 | Pilot | Ethiopia, focus on seed verification |
 | Scale | Add fertilizer + government subsidy tracking |
 | Expand | Cross-sector: vaccines, energy, etc. |
