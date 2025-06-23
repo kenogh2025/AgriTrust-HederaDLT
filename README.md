@@ -31,3 +31,12 @@ Fake agricultural inputs and corrupt subsidy programs are destroying farmer trus
 | Expand | Cross-sector: vaccines, energy, etc. |
 
 ## 📂 File Structure
+
+```
+AgriTrust-HederaDLT/
+├── frontend/
+├── backend/
+├── docs/
+├── assets/
+└── README.md
+```
